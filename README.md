@@ -82,8 +82,7 @@ The `SpokestackFrameworkExample` project is a reference implementations for how 
 ## Documentation
 
 ### Getting Started, Cookbooks, and Conceptual Guides
-
-[Step-by-step introduction](https://spokestack.io/docs/iOS/getting-started), [common usage patterns](https://spokestack.io/docs/iOS/cookbook), and [discussion of concepts](https://spokestack.io/docs/Concepts/pipeline-configuration) used by the library, [design guides for voice interfaces](https://spokestack.io/docs/Design/getting-started), and [the Android library](https://spokestack.io/docs/Android/getting-started) may all be found [on our website](https://spokestack.io/docs).
+[Step-by-step introduction](https://spokestack.io/docs/ios/getting-started), [common usage patterns](https://spokestack.io/docs/ios/cookbook), and [discussion of concepts](https://spokestack.io/docs/concepts/pipeline-configuration) used by the library, [design guides for voice interfaces](https://spokestack.io/docs/design/getting-started), and [the Android library](https://spokestack.io/docs/android/getting-started) may all be found [on our website](https://spokestack.io/docs).
 
 ### API Reference
 
